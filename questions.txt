@@ -1,0 +1,172 @@
+1st class:
+
+
+1. Take an integer input and print its binary equivalent and if the number is negative print its 2's complement
+
+2. Sort an array which has only 0's and 1's as values.
+
+3. Develop a product array where each element is replaced by the product of the remaining numbers in the array.
+	Eg: input array: 1 2 3 4 5 output: 120 60 40 30 24
+
+2nd Class: 
+
+1. Factorial of a number
+
+2. Write a program to reverse a linked list using recurrsion
+
+3. Given a binary search tree and a node address give inorder successor of node.
+
+Facebook post:
+
+
+1. Given a binary string as input to a program, output its decimal value. example: 1001 output 9.
+ remember input is a string of 0s and 1s and output is integer
+
+2. Given two array's which are sorted in ascending and their lengths (A, Alen, B, Blen) merge the arrays in first array. first array has enough space to accomodate all elements of A and B.
+ex: A: 1,3,5,7 B: 2,4,6 output A: 1,2,3,4,5,6,7
+
+
+3rd Class: 
+
+1. Convert a given binary number to decimal
+
+2. Take an integer and then create a linked list
+
+3. Given a string and then create a linked list
+
+4. Given a linked list specify whether it is a palindrome or not
+
+5. Take a base-2 number and convert it to base-8
+
+6. Take a string "ACCOMMODATE" and then return back "ACOMODATE"
+
+
+Facebook Post:
+
+1. Remove multiple spaces in a string without using extra string
+
+2. Remove characters from index i to j in a string
+
+3. Given str1 and str2 and position i, replace str1 from position i with str2
+
+
+4th class:
+
+1)Given an array (by user lets say 12345)perform left shift and right shift
+Leftshift example:Suppose user gives 2 ,output should be 34512
+Rightshift example:Suppose user gives 2,output should be 45123
+this has to be done in three ways
+
+a)bubble sort type by mutual transfer
+
+b)copy to second array and shift and paste it end ..
+
+c)by n sqaure time complexity
+
+
+2)If a string Hello good morning had been given have to change in reverse as morning good hello
+
+3)if input as aaabbcc then the output should be a3b2c2
+
+4)Palindrome of a string
+
+
+
+5th class:
+
+1. Given an array of length n is sorted. Part of the array is reversed, fix the array
+
+2. Suppose there is a linked list with a circular loop in it. Fix it
+
+3. Two numbers are given as linked lists. Write an adder function for them.
+
+4. Write a program that displays the .csv(comma seperated value) file in a well-formatted tabular form. (specs are discussed in the class)
+
+
+6th class:
+
+1. Swap consecutive two elements in a linked list
+	Eg: input is 1 2 3 4 then output is 2 1 4 3
+
+2. write a function that takes an integer input and then print it without using "%d"
+
+3. Given a string, reverse the string using recurrsion
+
+4.Given a string,find its length using recursion
+
+5. Given two sorted arrays find the median of the two.
+
+
+
+7th class:
+
+1. Given a tree and two pointers pointing to two different nodes, we have to find the least common parent node for both the node. Every node also has information about its parent node.
+
+
+2. Given several strings like cat,cut,rat etc we have to compress the strings from the end in such a way that the output should be like {{{c,r}a},cu}t}
+
+3. Searching a dictionary using numeric keypad.
+	Input: 2 (a,b,c)	Output: all the words in the dictionary starting with a or b or c (sorted according to length and then alphabetically as well) i.e. (a, am, an, as, at, be, aim, ant, bat, cat, can, able)
+	Input: 28		Output: words starting with either a or b or c followed by t or u or v sorted as previous
+
+4. Given 1000 theatres exist and 100 movies released in a year. Find TOP run movie if movies exchange only in begining of week.
+
+5. Check whether given tree is a sum tree (the value of a node is equal to sum of all the child nodes(i.e., from the immediate child to leaf node) of that node).
+
+6. Given a sorted doubly linked list convert it into a decently balance BST. Do the converse as well (convert BST into a doubly linked list)
+
+
+
+8th class:
+
+ 
+1. Given a word find it in the text files provided. Print all the filenames in which it is found and the count of repetition of the word.
+
+
+9 th class:
+
+
+1.printing the path in a maze
+
+
+2.printing the tree.
+
+
+10th class :
+
+
+1. Count vowels/consonants in a string
+
+2. Change case of every character (lower to uppper and upper to lowe)
+
+3. Remove all digits in a given string
+
+4. Using standard phone mapping convert a string to a number representation
+
+5. Given (abc, 2) -> aabbcc. Repeat each char and Expand the string.
+
+6. Given (abc, 2) -> abcabc. Repeat whole string two times one after another.
+
+
+11th class :
+
+1. write a function that takes an integer array as input, length of the array as input and reverses the same array in the function
+
+2. write a function that takes string as input (without length) and reverses the same string in the function
+
+3. write a function that takes two strings as input and swaps the values of the strings. both strings are passed by call by reference.
+
+4. write a function that takes array of structure, which has name, age, fields and reverses the array. if records given are {{peri,43},{abhay,37},{hari, 30}} output shoudl be {{hari,30},{abhay,37},{peri,43}}
+
+5. write a function that takes array of structure, whose fields are name, marks for 6 subjects and reverses the array. (same as 6 but instead of age now there will be 6 subject marks)
+
+6. change the program 5 where the number of subjects whose marks are given is also taken as input from user. so structure is {name, noofsubjects, marks array of size noofsubjects}
+
+fb post:
+
+
+1. find top 5% frequent dictionary words in a given file. take file as input, enumerate words and then check whether they are dict words or not and then find top 5%
+
+2. given an array with 3 values 0/1/2 sort the array
+
+3. given a dictionary or set of words as input print words that have all vowels present in them
